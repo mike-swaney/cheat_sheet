@@ -1,0 +1,16 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: Aquamarine;
+    text-align: center;
+}
+
+table, th, td {
+    border: 2px solid darkgrey;
+    border-collapse: collapse;
+    font-family: Helvetica;
+}
+
+thead tr th {
+  background-color: lightgrey;
+}
